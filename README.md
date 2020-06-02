@@ -1,3 +1,3 @@
-# Machine_Learning--Probabilistic_Ranking
+# Machine Learning: Probabilistic Ranking
 
 Please read the report for more explanation
